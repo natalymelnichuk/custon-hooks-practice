@@ -30,7 +30,7 @@ function PaginationDemo() {
     const currentItems = allIItems.slice(startIndex, endIndex);
 
     return (
-        <div className="p-4 sm:p-8 max-w-xl mx-auto bg-violet-50/60 backdrop-blur-md rounded-3xl shadow-lg border border-violet-100 space-y-5 font-sans">
+        <div className="my-8 p-4 sm:p-8 max-w-xl mx-auto bg-violet-50/60 backdrop-blur-md rounded-3xl shadow-lg border border-violet-100 space-y-5 font-sans">
             <h1 className="text-xl sm:text-2xl font-bold text-slate-700 text-center tracking-wide">
                 Pagination Demo
             </h1>
