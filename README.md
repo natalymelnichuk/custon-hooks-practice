@@ -3,6 +3,7 @@
 
 A modern React application built with **TypeScript**, **Vite**, and **Tailwind CSS**, demonstrating the implementation and usage of reusable custom hooks: `usePagination` and `useDebounce`. Designed with a soft, responsive pastel UI.
 
+**Live Demo:** https://natalymelnichuk.github.io/custon-hooks-practice/
 
 ## Tech Stack
 
